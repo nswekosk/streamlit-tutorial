@@ -4,7 +4,7 @@ Repository from [this blogpost](https://lethain.com/streamlit-llms/).
 To install and run on a computer with Python3:
 
 
-    git clone git@github.com:lethain/llm-explorer.git
+    git clone git@github.com:nswekosk/streamlit-tutorial.git
     python3 -m venv env
     . ./env/bin/activate
     pip install -r requirements.txt
@@ -12,4 +12,4 @@ To install and run on a computer with Python3:
 
 Then it will open in your browser automatically.
 You'll also need to provide an OpenAI API key
-[as specified here](https://github.com/lethain/llm-explorer/blob/main/oai_utils.py).
+[as specified here](https://github.com/nswekosk/streamlit-tutorial/blob/main/oai_utils.py).
